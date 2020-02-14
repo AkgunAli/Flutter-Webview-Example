@@ -15,4 +15,4 @@ Uygulamamızdaki butona basıldığında  buton bizi Youtube sayfasına yönlend
  iyi çalışmalar. "
  
  <img src="main1.jpeg" height="600em" />
-<img src="mani2.jpeg" height="600em" />
+<img src="main2.jpeg" height="600em" />
