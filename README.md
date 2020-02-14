@@ -14,5 +14,6 @@ When the button in our application is pressed, the button takes us to the Youtub
 Uygulamamızdaki butona basıldığında  buton bizi Youtube sayfasına yönlendiriyor.
  iyi çalışmalar. "
  
- <img src="main1.jpeg"  />
-<img src="main2.jpeg" " />
+<img src="main1.jpeg" height="600em" />
+<img src="main2.jpeg" height="600em" />
+
